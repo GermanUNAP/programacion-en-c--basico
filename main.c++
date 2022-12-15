@@ -3,5 +3,7 @@
 using namespace std;
 
 int main(){
-    cout<<"Hola mundo";
+    int edad = 0;
+    edad = 100;
+    cout<<"la edad de las personas es: "<<edad;
 }
