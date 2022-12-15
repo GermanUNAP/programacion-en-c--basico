@@ -8,4 +8,9 @@ int main(){
     cout<<"Enter tour age: "<<endl;
     cin>>edad;
     cout<<"Your age is: "<<edad<<endl;
+    /*
+    commnet for 
+    many lines
+    you seeeee
+    */
 }
